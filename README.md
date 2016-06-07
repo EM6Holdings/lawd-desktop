@@ -1,36 +1,26 @@
-# **Lawd**
+# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
-----------
+[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-# Videos
-Lawd uses a parse server as its backend to store videos (movies and tv series).
-The torrents from the tracker api are transformed and filtered in our parse server.
+## Getting Started
 
-On the frontend, I used Vue.js and I find it extremely powerful library for building simple UI.
-For streaming, I was caught by the simplicity of use of WebTorrent.js.
-So I would like to thank these two fellas for making lawd alive.
-But to not forgive the kat who offered me rapid access to their daily dump api.
+To use this template, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
-## Install
+## Bugs and Issues
 
-First, clone the repo via git
-And then install dependencies.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
 
-```bash
-$ npm install
-```
+## Creator
 
-## Run
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-Run this two commands __simultaneously__ in different console tabs.
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-```bash
-$ npm run hot-server
-$ npm run start-hot
-```
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-or run two servers with one command
+## Copyright and License
 
-```bash
-$ npm run dev
-```
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
