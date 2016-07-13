@@ -211,6 +211,11 @@ header .header-content .header-content-inner p {
     margin: 20px auto 0;
   }
 }
+.service-box img {
+  width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
 .service-box p {
   margin-bottom: 0;
 }
